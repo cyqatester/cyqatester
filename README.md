@@ -61,7 +61,6 @@ A little bit of everything as I continue my journey:
 - 🧪 Test automation frameworks and projects
 - 🎭 Playwright & TypeScript experiments
 - ☕ Selenium & Java automation projects
-- 🔌 API testing with REST Assured
 - ⚙️ CI/CD pipelines using GitHub Actions & Jenkins
 - 💻 Software development projects
 - 🚀 Personal experiments and things I'm learning
@@ -80,12 +79,6 @@ Because life isn't all about code and test cases!
 - 🐶 **Dog Lover** – Dogs make everything better. No arguments. 🐾
 
 ---
-
-## 💡 A Little Reminder
-
-> "Great software isn't just built. It's tested, challenged, broken, fixed, and made better."
-
-I'm here to keep learning, keep building, and keep improving one project at a time.
 
 **Thanks for stopping by! Feel free to explore my repositories, follow my journey, and let's connect!** 🚀
 
