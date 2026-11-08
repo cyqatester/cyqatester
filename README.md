@@ -54,21 +54,6 @@ I enjoy creating automation frameworks, writing maintainable test scripts, explo
 
 ---
 
-## 📌 What You'll Find Here
-
-A little bit of everything as I continue my journey:
-
-- 🧪 Test automation frameworks and projects
-- 🎭 Playwright & TypeScript experiments
-- ☕ Selenium & Java automation projects
-- ⚙️ CI/CD pipelines using GitHub Actions & Jenkins
-- 💻 Software development projects
-- 🚀 Personal experiments and things I'm learning
-
-I'm constantly learning and improving, so expect this section to grow!
-
----
-
 ## 🎮 Beyond the Keyboard
 
 Because life isn't all about code and test cases!
