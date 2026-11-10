@@ -54,17 +54,6 @@ I enjoy creating automation frameworks, writing maintainable test scripts, explo
 
 ---
 
-## 🎮 Beyond the Keyboard
-
-Because life isn't all about code and test cases!
-
-- 🍥 **Anime Lover** – Always up for a good anime recommendation.
-- 👽 **Sci-Fi & Horror Fan** – The more mind-bending or terrifying, the better!
-- 🎮 **Casual Gamer** – Debugging code by day, gaming by night.
-- 🐶 **Dog Lover** – Dogs make everything better. No arguments. 🐾
-
----
-
 **Thanks for stopping by! Feel free to explore my repositories, follow my journey, and let's connect!** 🚀
 
 ⭐ Don't forget to check back — more projects are coming soon!
