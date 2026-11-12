@@ -120,14 +120,16 @@ I have hands-on experience across different areas of software testing, including
 
 - ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
 
-Sample Web UI Test Automation using Playwright
+
+Sample Web UI Test Automation using **Playwright Typescript**
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Playwright_Tests" src="https://github.com/user-attachments/assets/2cc818c1-abdf-4ec0-9cda-3562eb302e86" />  
 </picture>  
 </p>
 
-The same Test Coverage but using Selenium Java, and TestNG
+
+The same Test Coverage but using **Selenium Java, and TestNG**
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
