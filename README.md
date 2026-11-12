@@ -120,8 +120,9 @@ I have hands-on experience across different areas of software testing, including
 
 - ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
 
+### Test Automation in Action
 
-Sample Web UI Test Automation using **Playwright Typescript**
+**Playwright Typescript**
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Playwright_Tests" src="https://github.com/user-attachments/assets/2cc818c1-abdf-4ec0-9cda-3562eb302e86" />  
@@ -129,12 +130,16 @@ Sample Web UI Test Automation using **Playwright Typescript**
 </p>
 
 
-The same Test Coverage but using **Selenium Java, and TestNG**
+**Selenium Java, and TestNG**
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
 </picture>  
 </p>
+
+
+**This is the GitHub Actions workflow from one of the projects I've worked on.**
+<img width="962" height="260" alt="image" src="https://github.com/user-attachments/assets/6365f474-8d34-4351-baf4-3570f2052aae" />
 
 My goal? **Catch bugs before they catch us.** 🐛
 
