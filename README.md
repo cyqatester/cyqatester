@@ -8,7 +8,7 @@ I'm **Cy**, a Software and QA Engineer from the **Philippines 🇵🇭**, curren
 
 I'm passionate about writing quality code, building reliable applications, and making sure everything works the way it's supposed to.
 
-I use this space to **learn, experiment, build projects, sharpen my skills, and showcase what I can do.** I'm still relatively new to GitHub, but this is just the beginning. Expect more projects, experiments, and automation goodness along the way!
+I use this space to **learn, experiment, build projects, sharpen my skills, and showcase what I can do.** Expect more projects, experiments, and automation goodness along the way!
 
 ### 🚀 Tech Stack & Tools
 
@@ -98,6 +98,11 @@ I use this space to **learn, experiment, build projects, sharpen my skills, and 
   <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/angular17?variant=light">
   <img src="https://www.tech-stack-icons.com/api/readme/icon/angular17?variant=light" width="40" height="40" alt="Angular17" title="Angular17">
 </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.tech-stack-icons.com/api/readme/icon/docker?variant=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.tech-stack-icons.com/api/readme/icon/docker?variant=light">
+  <img src="https://www.tech-stack-icons.com/api/readme/icon/docker?variant=light" width="40" height="40" alt="Docker" title="Docker">
+</picture>
 </p>
 
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
@@ -115,14 +120,11 @@ I use this space to **learn, experiment, build projects, sharpen my skills, and 
 
 I have hands-on experience across different areas of software testing, including:
 
-- ✅ Functional Testing
-- 🔗 Integration Testing
-- 🌐 End-to-End (E2E) Testing
-- 🔄 Regression Testing
-- ⚡ Performance Testing
-- 🔌 API Testing
-- 🗄️ Database Testing
-- 🤖 Test Automation
+- ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
+
+Sample Web UI Test Automation
+
+https://github.com/user-attachments/assets/f4a7c19b-41b5-4224-8975-5e6ef27eb94f
 
 My goal? **Catch bugs before they catch us.** 🐛
 
