@@ -120,7 +120,7 @@ I have hands-on experience across different areas of software testing, including
 
 - ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
 
-### Test Automation in Action
+### My Test Automation in Action
 
 **Playwright Typescript**
 <p>
