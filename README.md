@@ -8,8 +8,6 @@ I'm **Cy**, a Software and QA Engineer from the **Philippines 🇵🇭**, curren
 
 I'm passionate about writing quality code, building reliable applications, and making sure everything works the way it's supposed to.
 
-I use this space to **learn, experiment, build projects, sharpen my skills, and showcase what I can do.** Expect more projects, experiments, and automation goodness along the way!
-
 ### 🚀 Tech Stack & Tools
 
 <p>
@@ -122,9 +120,19 @@ I have hands-on experience across different areas of software testing, including
 
 - ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
 
-Sample Web UI Test Automation
+Sample Web UI Test Automation using Playwright
+<p>
+<picture>
+  <img width="1280" height="720" alt="School_Management_Playwright_Tests" src="https://github.com/user-attachments/assets/2cc818c1-abdf-4ec0-9cda-3562eb302e86" />  
+</picture>  
+</p>
 
-https://github.com/user-attachments/assets/f4a7c19b-41b5-4224-8975-5e6ef27eb94f
+The same Test Coverage but using Selenium Java, and TestNG
+<p>
+<picture>
+  <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
+</picture>  
+</p>
 
 My goal? **Catch bugs before they catch us.** 🐛
 
