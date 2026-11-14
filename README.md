@@ -1,10 +1,7 @@
 # 👋 Hey there, I'm Cy! 🇵🇭
 
 ### 💻 Software Engineer | 🧪 QA Engineer | 🤖 Test Automation Enthusiast
-
-Welcome to my little corner of GitHub!
-
-I'm **Cy**, a Software and QA Engineer from the **Philippines 🇵🇭**, currently spending most of my time building, breaking, testing, and automating things (mostly so users don't have to 😆).
+I'm a Software and QA Engineer from the **Philippines 🇵🇭**, currently spending most of my time building, breaking, testing, and automating things (mostly so users don't have to 😆).
 
 I'm passionate about writing quality code, building reliable applications, and making sure everything works the way it's supposed to.
 
