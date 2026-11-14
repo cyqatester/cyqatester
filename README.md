@@ -122,7 +122,7 @@ I have hands-on experience across different areas of software testing, including
 **Playwright Typescript**
 <p>
 <picture>
-  <img width="1280" height="720" alt="School_Management_Playwright_Tests" src="https://github.com/user-attachments/assets/2cc818c1-abdf-4ec0-9cda-3562eb302e86" />  
+  <img width="1280" height="720" alt="Anime_Catalog_Frontend_Playwright_Test" src="https://github.com/user-attachments/assets/648b3333-823c-480e-ad1d-3172c13b5174" />
 </picture>  
 </p>
 
