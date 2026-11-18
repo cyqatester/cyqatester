@@ -119,7 +119,7 @@ I have hands-on experience across different areas of software testing, including
 
 ---
 
-### My Test Automation in Action
+## My Test Automation in Action
 
 
 **SELENIUM TYPESCRIPT, MOCHA, AND CHAI**
