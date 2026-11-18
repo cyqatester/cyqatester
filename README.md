@@ -117,9 +117,20 @@ I have hands-on experience across different areas of software testing, including
 
 - ✅ Functional Testing 🔗 Integration Testing 🌐 End-to-End (E2E) Testing 🔄 Regression Testing ⚡ Performance Testing 🔌 API Testing 🗄️ Database Testing 🤖 Test Automation
 
+---
+
 ### My Test Automation in Action
 
-**Playwright Typescript**
+
+**SELENIUM TYPESCRIPT, MOCHA, AND CHAI**
+<p>
+<picture>
+  <img width="1280" height="720" alt="Scalemates_Selenium_Typescript" src="https://github.com/user-attachments/assets/712a4cb4-feb8-45a8-a6e5-449589549baa" />
+</picture>  
+</p>
+
+
+**PLAYWRIGHT TYPESCRIPT**
 <p>
 <picture>
   <img width="1280" height="720" alt="Anime_Catalog_Frontend_Playwright_Test" src="https://github.com/user-attachments/assets/648b3333-823c-480e-ad1d-3172c13b5174" />
@@ -127,7 +138,7 @@ I have hands-on experience across different areas of software testing, including
 </p>
 
 
-**Selenium Java, and TestNG**
+**SELENIUM JAVA, AND TESTNG**
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
