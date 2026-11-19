@@ -122,7 +122,7 @@ I have hands-on experience across different areas of software testing, including
 ## My Test Automation in Action
 
 
-**SELENIUM TYPESCRIPT, MOCHA, AND CHAI**
+**SELENIUM TYPESCRIPT, MOCHA, AND CHAI** - ( [Scalemates](https://github.com/cyqatester/Scalemates-Selenium-Typescript) )
 <p>
 <picture>
   <img width="1280" height="720" alt="Scalemates_Selenium_Typescript" src="https://github.com/user-attachments/assets/712a4cb4-feb8-45a8-a6e5-449589549baa" />
@@ -130,7 +130,7 @@ I have hands-on experience across different areas of software testing, including
 </p>
 
 
-**PLAYWRIGHT TYPESCRIPT**
+**PLAYWRIGHT TYPESCRIPT** - ( [Anime Catalog](https://github.com/cyqatester/Anime-Catalog-Frontend-With-Playwright) )
 <p>
 <picture>
   <img width="1280" height="720" alt="Anime_Catalog_Frontend_Playwright_Test" src="https://github.com/user-attachments/assets/648b3333-823c-480e-ad1d-3172c13b5174" />
@@ -138,7 +138,7 @@ I have hands-on experience across different areas of software testing, including
 </p>
 
 
-**SELENIUM JAVA, AND TESTNG**
+**SELENIUM JAVA, AND TESTNG** - ( [School Management](https://github.com/cyqatester/School-Management-Selenium-Tests) )
 <p>
 <picture>
   <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
