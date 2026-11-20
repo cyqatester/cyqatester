@@ -138,10 +138,10 @@ I have hands-on experience across different areas of software testing, including
 </p>
 
 
-**SELENIUM JAVA, AND TESTNG** - ( [School Management](https://github.com/cyqatester/School-Management-Selenium-Tests) )
+**SELENIUM JAVA, MAVEN, AND TESTNG** - ( [Oipolloi](https://github.com/cyqatester/Oipolloi-Selenium-Java) )
 <p>
 <picture>
-  <img width="1280" height="720" alt="School_Management_Selenium_Tests" src="https://github.com/user-attachments/assets/7beaebcc-6d12-49de-b82d-6f2347dde6ab" />
+  <img width="1080" height="607" alt="Oipolloi_Selenium_Tests" src="https://github.com/user-attachments/assets/bdd639fc-3713-46f3-8275-9f94a67d6844" />
 </picture>  
 </p>
 
