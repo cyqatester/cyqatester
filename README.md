@@ -130,10 +130,10 @@ I have hands-on experience across different areas of software testing, including
 </p>
 
 
-**PLAYWRIGHT TYPESCRIPT** - ( [Anime Catalog](https://github.com/cyqatester/Anime-Catalog-Frontend-With-Playwright) )
+**PLAYWRIGHT TYPESCRIPT** - ( [Tripp]( https://github.com/cyqatester/Tripp-Playwright-Typescript-CI-CD ) )
 <p>
 <picture>
-  <img width="1280" height="720" alt="Anime_Catalog_Frontend_Playwright_Test" src="https://github.com/user-attachments/assets/648b3333-823c-480e-ad1d-3172c13b5174" />
+  <img width="1080" height="607" alt="Tripp_Playwright_UI_Tests" src="https://github.com/user-attachments/assets/e01638fe-cc19-407f-9bfd-0d62d13f0b90" />
 </picture>  
 </p>
 
